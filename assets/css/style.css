@@ -5,6 +5,7 @@
         font-family: 'Taviraj', serif;
         margin-top: 0px;
         margin-bottom: 0px;
+        text-align: center;
     }
 
     .containerOne {
@@ -16,8 +17,12 @@
     a {
         color: rgb(248, 202, 229);
         font-weight: bold;
-        padding-left: 5%;
+        padding-left: 18%;
         font-family: 'Taviraj', serif;
+    }
+
+    a:hover { 
+        color: rgb(197, 67, 197);
     }
 
     h2 {
@@ -51,8 +56,8 @@
 
     .container {
         background: white;
-        width: 43%;
-        margin: 40px 5% 40px 5%;
+        width: 80%;
+        margin: 80px 10% 60px 10%;
     }
 
     footer {
@@ -60,9 +65,9 @@
         background-color: #333333;
         color: white;
         border-top: 20px solid rgb(248, 202, 229);
-        font-size: 0%;
-        padding-top: 30px;
-        padding-bottom: 10px;
+        font-size: 20px;
+        padding-top: 20px;
+        padding-bottom: 20px;
     }
 }
 
@@ -74,24 +79,24 @@
         margin-top: 0px;
         margin-bottom: 0px;
         float: left;
-        width: 20%;
-        font-size: 16px;
-        padding-top: 8px;
-        padding-bottom: 8px;
+        width: 30%;
+        font-size: 20px;
+        padding-top: 20px;
+        padding-bottom: 20px;
     }
 
     .containerOne {
         background-color: white;
-        padding-top: 5px;
-        padding-bottom: 5px;
+        padding-top: 17px;
+        padding-bottom: 17px;
     }
 
     a {
         color: rgb(248, 202, 229);
-        font-weight: normal;
+        font-weight: bold;
         font-family: 'Taviraj', serif;
-        font-size: 12px;
-        padding-left: 5%;
+        font-size: 20px;
+        padding-left: 10%;
     }
 
     h2 {
@@ -120,13 +125,40 @@
 
 @media (min-width: 980px) {
     .header {
-        margin-top: 0px;
-        margin-bottom: 0px;
-        float: left;
-        width: 20%;
-        font-size: 16px;
-        padding-top: 8px;
-        padding-bottom: 8px;
+        font-size: 28px;
+    }
+
+    .containerOne {
+        padding-top: 19px;
+        padding-bottom: 18px;
+    }
+    
+    a {
+        font-size: 24px;
+        font-weight: normal;
+    }
+
+    h2 {
+        font-size: 34px;
+        padding-top: 50px;
+        padding-bottom: 20px;
+    }
+
+    .aboutOne {
+        font-size: 24px;
+        margin: auto;
+        padding-bottom: 20px;
+    }
+
+    .aboutTwo {
+        font-size: 24px;
+        margin: auto;
+        padding-bottom: 80px;
+    }
+
+    .container {
+        width: 960px;
+        margin: 110px auto 90px auto; 
     }
 }
 
