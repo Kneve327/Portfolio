@@ -1,3 +1,76 @@
+@media (max-width:639px) {
+    .header {
+        background-color: #333333;
+        color: rgb(248, 202, 229);
+        font-family: 'Taviraj', serif;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        text-align: center;
+    }
+
+    .containerOne {
+        background-color: white;
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+
+    a {
+        color: rgb(248, 202, 229);
+        font-weight: bold;
+        padding-left: 10%;
+        font-family: 'Taviraj', serif;
+    }
+
+    a:hover { 
+        color: rgb(197, 67, 197);
+    }
+
+    h2 {
+        font-family: 'Taviraj', serif;
+        text-align: center;
+        padding-top: 30px;
+        color: #333333;
+    }
+
+    #bio-image {
+        width: 90%;
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+
+    .aboutOne {
+        margin-left: 5%;
+        margin-right: 5%;
+        padding-top: 40px;
+        width: 90%;
+        font-family: 'Taviraj', serif;
+    }
+
+    .aboutTwo {
+        margin-left: 5%;
+        margin-right: 5%;
+        width: 90%;
+        font-family: 'Taviraj', serif;
+        padding-bottom: 40px;
+    }
+
+    .container {
+        background: white;
+        width: 80%;
+        margin: 50px 10% 50px 10%;
+    }
+
+    footer {
+        width: 100%;
+        background-color: #333333;
+        color: white;
+        border-top: 20px solid rgb(248, 202, 229);
+        font-size: 20px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+}
+
 @media (min-width: 640px) {
     .header {
         background-color: #333333;
