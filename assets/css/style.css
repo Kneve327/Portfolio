@@ -54,10 +54,80 @@
         padding-bottom: 40px;
     }
 
+    .contact-name {
+        padding-top: 20px;
+        padding-left: 25px;
+    }
+
+    .contact-message {
+        padding-left: 25px;
+        padding-bottom: 20px;
+    }
+
+    .contact-submit {
+        font-size: 22px;
+        padding-left: 25%;
+        padding-right: 25%;
+        padding-bottom: 30px;
+    }
+
     .container {
         background: white;
         width: 80%;
         margin: 50px 10% 50px 10%;
+    }
+
+    .containerContact {
+        background-color: white;
+        width: 80%;
+        margin: 50px 10% 50px 10%;
+    }
+
+    .containerPortfolio {
+        background-color: white;
+        width: 80%;
+        margin: 50px 10% 50px 10%;
+    }
+
+    .port-p {
+        text-align: center;
+        padding-top: 10px;
+    }
+
+    .box-one {
+        padding-top: 20px;
+        padding-left: 11%;
+        padding-right: 11%;
+    }
+
+    .box-two {
+        padding-top: 20px;
+        padding-left: 11%;
+        padding-right: 11%;
+    }
+
+    .box-three {
+        padding-top: 20px;
+        padding-left: 11%;
+        padding-right: 11%;
+    }
+
+    .box-four {
+        padding-top: 20px;
+        padding-left: 11%;
+        padding-right: 11%;
+        padding-bottom: 10px;
+    }
+
+    /* .box-five {
+        padding-top: 20px;
+        padding-left: 11%;
+        padding-right: 11%;
+    } */
+
+    #imageid {
+        width: 200px;
+        height: 100px;
     }
 
     footer {
@@ -127,10 +197,81 @@
         padding-bottom: 60px;
     }
 
+    .contact-name {
+        padding-top: 20px;
+        padding-left: 50px;
+    }
+
+    .contact-message {
+        padding-left: 50px;
+        padding-bottom: 20px;
+    }
+
+    .contact-submit {
+        font-size: 22px;
+        padding-left: 35%;
+        padding-right: 35%;
+        padding-bottom: 30px;
+    }
+
     .container {
         background: white;
         width: 80%;
         margin: 80px 10% 60px 10%;
+    }
+
+    .containerContact {
+        background-color: white;
+        width: 80%;
+        margin: 50px 10% 50px 10%;
+    }
+
+    .containerPortfolio {
+        background-color: white;
+        width: 80%;
+        margin: 50px 10% 50px 10%;
+    }
+
+    .port-p {
+        text-align: center;
+        padding-top: 20px;
+        font-size: 22px;
+    }
+
+    .box-one {
+        padding-top: 20px;
+        padding-left: 16%;
+        padding-right: 16%;
+    }
+
+    .box-two {
+        padding-top: 20px;
+        padding-left: 16%;
+        padding-right: 16%;
+    }
+
+    .box-three {
+        padding-top: 20px;
+        padding-left: 16%;
+        padding-right: 16%;
+    }
+
+    .box-four {
+        padding-top: 20px;
+        padding-left: 16%;
+        padding-right: 16%;
+        padding-bottom: 20px;
+    }
+
+    /* .box-five {
+        padding-top: 20px;
+        padding-left: 16%;
+        padding-right: 16%;
+    } */
+
+    #imageid {
+        width: 350px;
+        height: 200px;
     }
 
     footer {
@@ -176,7 +317,7 @@
         font-family: 'Taviraj', serif;
         font-size: 24px;
         text-align: center;
-        padding-top: 20px;
+        padding-top: 30px;
         color: #333333;
     }
 
@@ -193,6 +334,63 @@
         width: 90%;
         font-family: 'Taviraj', serif;
         padding-bottom: 40px;
+    }
+
+    .containerContact {
+        margin-top: 80px;
+        margin-bottom: 60px;
+    }
+
+    .containerPortfolio {
+        background-color: white;
+        width: 80%;
+        margin: 80px 10% 70px 10%;
+    }
+    #WGG {
+        padding-left: 15%;
+        padding-right: 38%;
+    }
+
+    .port-p {
+        text-align: center;
+        padding-top: 20px;
+        font-size: 22px;
+    }
+
+    .box-one {
+        padding-top: 20px;
+        padding-left: 17%;
+        padding-right: 17%;
+    }
+
+    .box-two {
+        padding-top: 20px;
+        padding-left: 17%;
+        padding-right: 17%;
+    }
+
+    .box-three {
+        padding-top: 20px;
+        padding-left: 17%;
+        padding-right: 17%;
+    }
+
+    .box-four {
+        padding-top: 20px;
+        padding-left: 17%;
+        padding-right: 17%;
+        padding-bottom: 20px;
+    }
+
+    /* .box-five {
+        padding-top: 20px;
+        padding-left: 17%;
+        padding-right: 17%;
+    } */
+
+    #imageid {
+        width: 400px;
+        height: 250px;
     }
 }
 
@@ -229,9 +427,57 @@
         padding-bottom: 80px;
     }
 
+    .contact-submit {
+        font-size: 22px;
+        padding-left: 40%;
+        padding-right: 40%;
+        padding-bottom: 30px;
+    }
+
     .container {
         width: 960px;
         margin: 110px auto 90px auto; 
+    }
+
+    #WGG {
+        padding-left: 24%;
+        padding-right: 28%;
+    }
+
+    .box-one {
+        padding-top: 20px;
+        padding-left: 30%;
+        padding-right: 30%;
+    }
+
+    .box-two {
+        padding-top: 20px;
+        padding-left: 30%;
+        padding-right: 30%;
+    }
+
+    .box-three {
+        padding-top: 20px;
+        padding-left: 30%;
+        padding-right: 30%;
+    }
+
+    .box-four {
+        padding-top: 20px;
+        padding-left: 30%;
+        padding-right: 30%;
+        padding-bottom: 20px;
+    }
+
+    /* .box-five {
+        padding-top: 20px;
+        padding-left: 30%;
+        padding-right: 30%;
+    } */
+
+    #imageid {
+        width: 400px;
+        height: 250px;
     }
 }
 
@@ -239,4 +485,5 @@ body {
     background-image: url(../images/floralfour.jpg);
     background-repeat: repeat-y;
     background-size: 100%;
+    font-family: 'Taviraj', serif;
 }
