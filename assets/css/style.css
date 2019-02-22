@@ -1,3 +1,29 @@
+@media (max-width:375px) {
+
+    #linkedin {
+        padding-left: 40px;
+        padding-right: 50px;
+    }
+    #github {
+        padding-left: 40px;
+        padding-right: 50px;
+    }
+    #linkedinLinkStyle {
+        color: black;
+        font-size: 18px;
+        /* margin-left: 30px; */
+        padding-left: 50px;
+        font-weight: normal;
+    }
+    #githubLinkStyle {
+        color: black;
+        font-size: 18px;
+        /* margin-left: -30px; */
+        padding-left: 50px;
+        font-weight: normal;
+    }
+}
+
 @media (max-width:639px) {
 
     .contactInfo {
