@@ -1,4 +1,26 @@
 @media (max-width:639px) {
+
+    .contactInfo {
+        text-align: center
+    }
+    
+    #linkedinLinkStyle {
+        color: black;
+        font-size: 18px;
+        margin-left: -45px;
+        font-weight: normal;
+    }
+    #githubLinkStyle {
+        color: black;
+        font-size: 18px;
+        margin-left: -45px;
+        font-weight: normal;
+    }
+    #github {
+        padding-bottom: 50px;
+    }
+
+
     .header {
         background-color: #333333;
         color: rgb(248, 202, 229);
@@ -150,6 +172,28 @@
 }
 
 @media (min-width: 640px) {
+
+    .contactInfo {
+        text-align: center
+    }
+    
+    #linkedinLinkStyle {
+        color: black;
+        font-size: 18px;
+        margin-left: -85px;
+        font-weight: normal;
+    }
+    #githubLinkStyle {
+        color: black;
+        font-size: 18px;
+        margin-left: -85px;
+        font-weight: normal;
+    }
+    #github {
+        padding-bottom: 50px;
+    }
+
+
     .header {
         background-color: #333333;
         color: rgb(248, 202, 229);
@@ -302,6 +346,28 @@
 }
 
 @media (min-width: 768px) {
+
+    .contactInfo {
+        text-align: center
+    }
+    
+    #linkedinLinkStyle {
+        color: black;
+        font-size: 18px;
+        margin-left: -55px;
+        font-weight: normal;
+    }
+    #githubLinkStyle {
+        color: black;
+        font-size: 18px;
+        margin-left: -55px;
+        font-weight: normal;
+    }
+    #github {
+        padding-bottom: 50px;
+    }
+
+    
     .header {
         background-color: #333333;
         color: rgb(248, 202, 229);
@@ -515,6 +581,24 @@
         padding-left: 23%;
         padding-right: 23%;
     }
+
+    .contactInfo {
+        text-align: center
+    }
+    
+    #linkedinLinkStyle {
+        color: black;
+        font-size: 18px;
+        margin-left: -100px;
+    }
+    #githubLinkStyle {
+        color: black;
+        font-size: 18px;
+        margin-left: -100px;
+    }
+    #github {
+        padding-bottom: 50px;
+    }
 }
 
 body {
@@ -524,7 +608,7 @@ body {
     font-family: 'Taviraj', serif;
 }
 
-.contactInfo {
+/* .contactInfo {
     text-align: center
 }
 
@@ -540,4 +624,4 @@ body {
 }
 #github {
     padding-bottom: 50px;
-}
+} */
