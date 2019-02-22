@@ -51,6 +51,14 @@
         margin-right: 5%;
         width: 90%;
         font-family: 'Taviraj', serif;
+        /* padding-bottom: 40px; */
+    }
+
+    .aboutThree {
+        margin-left: 5%;
+        margin-right: 5%;
+        width: 90%;
+        font-family: 'Taviraj', serif;
         padding-bottom: 40px;
     }
 
@@ -194,6 +202,14 @@
         margin-right: 5%;
         width: 90%;
         font-family: 'Taviraj', serif;
+        /* padding-bottom: 60px; */
+    }
+
+    .aboutThree {
+        margin-left: 5%;
+        margin-right: 5%;
+        width: 90%;
+        font-family: 'Taviraj', serif;
         padding-bottom: 60px;
     }
 
@@ -333,6 +349,14 @@
         margin-right: 5%;
         width: 90%;
         font-family: 'Taviraj', serif;
+        /* padding-bottom: 40px; */
+    }
+
+    .aboutThree {
+        margin-left: 5%;
+        margin-right: 5%;
+        width: 90%;
+        font-family: 'Taviraj', serif;
         padding-bottom: 40px;
     }
 
@@ -424,6 +448,13 @@
     .aboutTwo {
         font-size: 24px;
         margin: auto;
+        /* padding-bottom: 80px; */
+    }
+
+    .aboutThree {
+        font-size: 24px;
+        margin: auto;
+        padding-top: 40px;
         padding-bottom: 80px;
     }
 
@@ -491,4 +522,22 @@ body {
     background-repeat: repeat-y;
     background-size: 100%;
     font-family: 'Taviraj', serif;
+}
+
+.contactInfo {
+    text-align: center
+}
+
+#linkedinLinkStyle {
+    color: black;
+    font-size: 18px;
+    margin-left: -100px;
+}
+#githubLinkStyle {
+    color: black;
+    font-size: 18px;
+    margin-left: -100px;
+}
+#github {
+    padding-bottom: 50px;
 }
